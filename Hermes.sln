@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hermes.Library", "Hermes.Library\Hermes.Library.csproj", "{CA6B5770-62CA-4EFD-896F-2CB2C2B878F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hermes", "Hermes.Library\Hermes.csproj", "{CA6B5770-62CA-4EFD-896F-2CB2C2B878F9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hermes.WinFormsUI", "Hermes.WinFormsUI\Hermes.WinFormsUI.csproj", "{D7C9EFF2-B788-444C-B00B-5BAA84D37F78}"
 EndProject

@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Hermes.Library\Hermes.Library.csproj" />
+    <ProjectReference Include="..\Hermes.Library\Hermes.csproj" />
   </ItemGroup>
 
 </Project>
