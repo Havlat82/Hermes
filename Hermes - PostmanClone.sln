@@ -11,7 +11,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Položky řešení", "Polo�
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermes", "Hermes\Hermes.csproj", "{D6A4B9E5-B7D0-4291-9C96-8FF29B75673B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hermes", "Hermes\Hermes.csproj", "{D6A4B9E5-B7D0-4291-9C96-8FF29B75673B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{EF6AC92A-B9FE-4CE7-AA70-077EB848EAC0}"
+	ProjectSection(SolutionItems) = preProject
+		Images\hermes-screenshot-after-successful-call.png = Images\hermes-screenshot-after-successful-call.png
+		Images\hermes-screenshot-ready-to-go.png = Images\hermes-screenshot-ready-to-go.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,6 +36,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EF6AC92A-B9FE-4CE7-AA70-077EB848EAC0} = {3BA6BABF-9793-483E-A0C3-D2DEFA75F897}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DAF80BA5-5D9C-4C95-8604-70AD86E8ED0D}
