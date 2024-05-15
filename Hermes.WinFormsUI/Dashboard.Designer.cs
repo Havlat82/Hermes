@@ -65,6 +65,7 @@
             apiText.Name = "apiText";
             apiText.Size = new Size(818, 47);
             apiText.TabIndex = 3;
+            apiText.TextChanged += apiText_TextChanged;
             // 
             // callApiButton
             // 
