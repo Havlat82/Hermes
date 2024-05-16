@@ -12,3 +12,6 @@ It should be able to call a given API and display the results in text window.
 - JSON
 - Git
 - GitHub
+
+![Application after successful API call](Images\hermes-screenshot-after-successful-call.png "Application after successful API call")
+![Application after launch](Images\hermes-screenshot-after-successful-call.png "Application after launch")
